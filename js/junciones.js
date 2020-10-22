@@ -8,7 +8,6 @@ function exibirCategoria(categoria){
         }else{
             elementos[i].style = 'display:none'
         }
-        
     }
 }
 function exibirTodo(){
